@@ -1,1 +1,3 @@
-Learning GitHub was so intrestingg
+Learning GitHub was so interesting.
+
+Writing New line for existing file.
